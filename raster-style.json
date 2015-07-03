@@ -9,6 +9,18 @@
   },
   "sprite": "https://www.mapbox.com/mapbox-gl-styles/sprites/mapbox-streets",
   "layers": [{
+    "id": "background",
+    "type": "background",
+    "minzoom": 0,
+    "maxzoom": 22,
+    "interactive": true,
+    "layout": {
+      "visibility": "visible"
+    },
+    "paint": {
+      "background-color": "#ede9d9"
+    }
+  }, {
     "id": "simple-tiles",
     "type": "raster",
     "source": "simple-tiles",
