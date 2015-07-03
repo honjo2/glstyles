@@ -7,6 +7,7 @@
       "type": "raster"
     }
   },
+  "sprite": "https://www.mapbox.com/mapbox-gl-styles/sprites/mapbox-streets",
   "layers": [{
     "id": "simple-tiles",
     "type": "raster",
