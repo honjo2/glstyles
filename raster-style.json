@@ -1,0 +1,17 @@
+{
+  "version": 7,
+  "sources": {
+    "simple-tiles": {
+      "url": "asset:///Users/honjo2/Desktop/raster-source.json",
+      "tileSize": 128,
+      "type": "raster"
+    }
+  },
+  "layers": [{
+    "id": "simple-tiles",
+    "type": "raster",
+    "source": "simple-tiles",
+    "minzoom": 0,
+    "maxzoom": 22
+  }]
+}
