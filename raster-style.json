@@ -2,7 +2,7 @@
   "version": 7,
   "sources": {
     "simple-tiles": {
-      "url": "asset:///Users/honjo2/Desktop/raster-source.json",
+      "url": "https://raw.githubusercontent.com/honjo2/glstyles/master/raster-source.json",
       "tileSize": 128,
       "type": "raster"
     }
